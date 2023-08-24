@@ -4,7 +4,7 @@ LDA and BERTopic models have been created to test hypotheses and compare and con
 
 # Data
 
-Data for the r/adhdwomen dataset can be found linked to in the notebooks (available on Kaggle). Data for the r/ADHD dataset (sampled from the Kaggle link) can be found in the 'Data' folder above.
+Data for the r/adhdwomen dataset can be found linked to in the notebooks (available on Kaggle). Data for the r/ADHD dataset (sampled from the Kaggle link) can be found in the file 'corpus7_ADHD.csv'.
 
 # Notebooks
 
